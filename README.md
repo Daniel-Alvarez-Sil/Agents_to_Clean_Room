@@ -1,3 +1,14 @@
+# Description.
+
+This project contains the files that implement the cleaning of an N x M room using agents, with varying parameters. This are the following files: 
+- Requirements: Python libraries used to run this project
+- clean_room.ipynb: Jupyter notebook with the logic to execute the simulation (either with Basic Visualization or only the simulation).
+- clean_room.html: Export of the Jupyter notebook on HTML. 
+
+Next, we will show how to clone this project. 
+
+> Note: This project was ran upon Ubuntu. 
+
 # Windows (PowerShell)
 
 1. **Install prerequisites (once)**
