@@ -51,7 +51,8 @@ sudo apt install -y git python3 python3-venv python3-pip
 
 ```bash
 cd ~
-git clone 
+git clone https://github.com/Daniel-Alvarez-Sil/Agents_to_Clean_Room.git
+cd Agents_to_Clean_Room
 ```
 
 3. **Create & activate a virtual environment**
